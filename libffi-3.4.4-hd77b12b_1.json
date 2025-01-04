@@ -1,0 +1,45 @@
+{
+  "build": "hd77b12b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\libffi-3.4.4-hd77b12b_1",
+  "files": [
+    "Library/bin/ffi-7.dll",
+    "Library/bin/ffi-8.dll",
+    "Library/bin/ffi.dll",
+    "Library/include/ffi.h",
+    "Library/include/ffitarget.h",
+    "Library/lib/ffi.lib",
+    "Library/lib/libffi.dll.lib",
+    "Library/lib/libffi.lib",
+    "Library/lib/pkgconfig/libffi.pc",
+    "Library/share/libffi/libffiTargets-release.cmake",
+    "Library/share/libffi/libffiTargets.cmake",
+    ".nonadmin"
+  ],
+  "fn": "libffi-3.4.4-hd77b12b_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\libffi-3.4.4-hd77b12b_1",
+    "type": 1
+  },
+  "md5": "9807b377e11739ae3e920e10e607e460",
+  "name": "libffi",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\libffi-3.4.4-hd77b12b_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::libffi==3.4.4=hd77b12b_1[md5=9807b377e11739ae3e920e10e607e460]",
+  "sha256": "43a437fde4c064b2f1be2342a7bc6edccbc13da6a4fb8a44d87e4e6e34c54b63",
+  "size": 124747,
+  "subdir": "win-64",
+  "timestamp": 1714484319000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libffi-3.4.4-hd77b12b_1.conda",
+  "version": "3.4.4"
+}
